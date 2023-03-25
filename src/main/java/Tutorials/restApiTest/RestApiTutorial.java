@@ -51,12 +51,12 @@ public class RestApiTutorial {
                 .header("authorization", apiKey)
                 .build();
 
-        while(true){
+        while (true) {
             HttpResponse<String> getResponse = httpClient.send(getRequest, HttpResponse.BodyHandlers.ofString());
             transcript = gson.fromJson(getResponse.body(), Transcript.class);
 
             System.out.println(transcript.getStatus());
-            if(transcript.getStatus().equalsIgnoreCase("completed")){
+            if (transcript.getStatus().equalsIgnoreCase("completed")) {
                 break;
             }
 
