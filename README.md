@@ -6,7 +6,7 @@ This repository contains the practical exercises in java from the tutorials on t
 Topics studied so far:
 
   - Binary Search Tree;
-  - Costums Exceptions;
+  - Custom Exceptions;
   - Desing Patterns;
   - File IO;
   - Generics;
