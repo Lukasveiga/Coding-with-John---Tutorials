@@ -19,6 +19,13 @@ Topics studied so far:
   - Threads;
   - Unit Test with JUnit;
   
+You can find the script folders into:
+
+├── src
+│   ├── main
+│       ├── java
+│           ├── Tutorials
+  
 ```
 
 
