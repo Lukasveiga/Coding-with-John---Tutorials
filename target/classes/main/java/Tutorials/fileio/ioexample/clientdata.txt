@@ -1,5 +1,0 @@
-Cliente1,cliente1@email.com
-Cliente2,cliente2@email.com
-Cliente3,cliente3@email.com
-Cliente4,cliente4@email.com
-Cliente5,cliente5@email.com
