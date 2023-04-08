@@ -18,6 +18,7 @@ Topics studied so far:
   - Streams;
   - Threads;
   - Unit Test with JUnit;
+  - Optionals;
   
 You can find the script folders into:
 
